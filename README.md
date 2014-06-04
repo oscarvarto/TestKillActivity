@@ -1,7 +1,7 @@
 1. Suppose you have the following stack of activities:
  
-   Second <-- This is at the top of the stack (currently on the foreground)
-   Main
+   * Second <-- This is at the top of the stack (currently on the foreground)
+   * Main
 
 2. Then suppose Android OS destroys Main.
 3. We press the back button in Second.
